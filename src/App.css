@@ -1,0 +1,48 @@
+body{
+  text-align: center;
+  margin: 0;
+  box-sizing: border-box;
+
+}
+.container1{
+  width: 100vw;
+  height: 100vh;
+}
+.game{
+  width: 1518px;
+  background-color: burlywood;
+  padding-left: 590px;
+  padding-right:590px;
+  height: 650px;
+  padding-top: 150px;
+}
+.btn{
+  width: 100px;
+  height: 100px;
+  border:brown solid 5px;
+
+}
+.only1{
+  border-left: brown solid 10px ;
+
+}
+.only2{
+  border-right: brown solid 10px ;
+
+}
+.winnerclass:disabled{
+  background-color: rgb(153, 23, 240);
+}
+.navbar{
+  background-color:rgb(236, 186, 47);
+}
+h1{
+  font-family: 'Syne Mono', monospace;
+}
+#box0,#box1,#box2,#box3,#box4,#box5,#box6,#box7,#box8{
+  font-size: 60px;
+
+}
+nav li {
+  list-style: none;
+}
